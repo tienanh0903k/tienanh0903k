@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello, everyone! 👋 I'm Lê Huy Giang
 
-<!--
-**tienanh0903k/tienanh0903k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profile View Count
 
-Here are some ideas to get you started:
+    🖥️ I'm a Web Developer
+    🌱 I'm an enthusiast of open-source projects
+    🔭 Currently, I'm expanding my knowledge in Web Development
+    💬 Feel free to ask me about Node.js, Web Development, NPM
+    📫 You can reach me at: lehuygiang28@gmail.com
+    📌 Visit my Website
+    🤝 I'm always open to collaborations and contributions to my projects. Feel free to reach out or submit a pull request!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+TypeScript Nextjs Node.js NestJS MongoDB MySQL Git GitHub Vercel Google Cloud
