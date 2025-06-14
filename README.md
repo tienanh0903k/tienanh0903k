@@ -1,5 +1,5 @@
 <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="./svg/ntaSVG.svg" alt="NTASPORT">
+    <img src="svg/ntaSVG.svg" width="1200px" height="750px" alt="NTASPORT">
 </a>
   
 
