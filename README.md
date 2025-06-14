@@ -1,7 +1,6 @@
 <a href="#" target="_blank">
-    <img src="svg/ntaSVG.svg" width="1200px" height="750px">
+    <img src="svg/ntaSVG.svg" width="1200px">
 </a>
-  
 
 # 💫About Me :
 🖥️ I'm a Web Developer
