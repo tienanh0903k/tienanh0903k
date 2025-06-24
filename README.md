@@ -28,6 +28,34 @@
 
 
 
+<h2 align="center"> 🏆 Certificates </h2>
+<details>
+  <summary>HackerRank Certificates</summary>
+
+  <a href="./Certificate/certificate-java-basic.png">
+    <img height="100px" width="150px" src="./Certificate/certificate-java-basic.png" alt="Java Basic"/>
+  </a>
+  <a href="./Certificate/certificate-restapi-inter.png">
+    <img height="100px" width="150px" src="./Certificate/certificate-restapi-inter.png" alt="REST API Intermediate"/>
+  </a>
+  <a href="./Certificate/certificate-sql-basic.png">
+    <img height="100px" width="150px" src="./Certificate/certificate-sql-basic.png" alt="SQL Basic"/>
+  </a>
+  <a href="./Certificate/certificate-sql-inter.png">
+    <img height="100px" width="150px" src="./Certificate/certificate-sql-inter.png" alt="SQL Intermediate"/>
+  </a>
+</details>
+
+<details>
+  <summary>Udemy Certificates</summary>
+
+  <a href="./Certificate/certificate-introduce-software-engineer.jpg">
+    <img height="100px" width="150px" src="./Certificate/certificate-introduce-software-engineer.jpg" alt="Intro Software Engineer"/>
+  </a>
+  <a href="./Certificate/24-11-2024.jpg">
+    <img height="100px" width="150px" src="./Certificate/24-11-2024.jpg" alt="MongoDB Certificate"/>
+  </a>
+</details>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tienanh2003k@gmail.com&icon=0&color=0)](https://visitcount.itsvg.in)
