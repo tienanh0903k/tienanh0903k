@@ -33,11 +33,12 @@
   <summary>Coursera Certificates</summary>
 
   <a href="./Certificate/certificate-java-basic.png">
-    <img 
-      style="width: 300px; height: auto;" 
-      src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~T0K8UIPV6YZ6/CERTIFICATE_LANDING_PAGE~T0K8UIPV6YZ6.jpeg" 
-      alt="Java Basic"
-    />
+   <img 
+  src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~T0K8UIPV6YZ6/CERTIFICATE_LANDING_PAGE~T0K8UIPV6YZ6.jpeg" 
+  alt="Java Basic"
+  style="width: 90vw; height: auto; display: block; margin: 20px auto;"
+/>
+
   </a>
 </details>
 
