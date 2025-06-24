@@ -30,32 +30,13 @@
 
 <h2 align="center"> 🏆 Certificates </h2>
 <details>
-  <summary>HackerRank Certificates</summary>
+  <summary>Coursera Certificates</summary>
 
   <a href="./Certificate/certificate-java-basic.png">
-    <img height="100px" width="150px" src="./Certificate/certificate-java-basic.png" alt="Java Basic"/>
-  </a>
-  <a href="./Certificate/certificate-restapi-inter.png">
-    <img height="100px" width="150px" src="./Certificate/certificate-restapi-inter.png" alt="REST API Intermediate"/>
-  </a>
-  <a href="./Certificate/certificate-sql-basic.png">
-    <img height="100px" width="150px" src="./Certificate/certificate-sql-basic.png" alt="SQL Basic"/>
-  </a>
-  <a href="./Certificate/certificate-sql-inter.png">
-    <img height="100px" width="150px" src="./Certificate/certificate-sql-inter.png" alt="SQL Intermediate"/>
+    <img height="100px" width="150px" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~T0K8UIPV6YZ6/CERTIFICATE_LANDING_PAGE~T0K8UIPV6YZ6.jpeg" alt="Java Basic"/>
   </a>
 </details>
 
-<details>
-  <summary>Udemy Certificates</summary>
-
-  <a href="./Certificate/certificate-introduce-software-engineer.jpg">
-    <img height="100px" width="150px" src="./Certificate/certificate-introduce-software-engineer.jpg" alt="Intro Software Engineer"/>
-  </a>
-  <a href="./Certificate/24-11-2024.jpg">
-    <img height="100px" width="150px" src="./Certificate/24-11-2024.jpg" alt="MongoDB Certificate"/>
-  </a>
-</details>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tienanh2003k@gmail.com&icon=0&color=0)](https://visitcount.itsvg.in)
