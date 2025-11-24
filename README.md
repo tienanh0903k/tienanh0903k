@@ -23,24 +23,10 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java Servlet](https://img.shields.io/badge/servlet-%23E44D26.svg?style=for-the-badge&logo=java&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
-<h2 align="center"> 🏆 Certificates </h2>
-<details>
-  <summary>Coursera Certificates</summary>
 
-  <a href="./Certificate/certificate-java-basic.png">
-   <img 
-  src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~T0K8UIPV6YZ6/CERTIFICATE_LANDING_PAGE~T0K8UIPV6YZ6.jpeg" 
-  alt="Java Basic"
-  style="width: 90vw; height: auto; display: block; margin: 20px auto;"
-/>
-
-  </a>
-</details>
 
 
 
