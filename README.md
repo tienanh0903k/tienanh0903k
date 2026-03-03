@@ -25,8 +25,7 @@
 
 
 
-![Snake animation](https://github.com/tienanh0903k/tienanh0903k/blob/output/github-contribution-grid-snake.svg)
-
+![snake svg dark](https://github.com/tienanh0903k/tienanh0903k/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
