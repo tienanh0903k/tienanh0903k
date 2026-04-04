@@ -2,7 +2,7 @@
     <img src="svg/ntaSVG.svg" width="1200px">
 </a>
 
-# 💫About Me :
+💫About Me :
 🖥️ I'm a Web Developer
 🌱 I'm an enthusiast of open-source projects
 🔭 Currently, I'm expanding my knowledge in Web Development
